@@ -1,7 +1,6 @@
 # Hospital Readmissions Dashboard
 
-This project is an **interactive dashboard** built with **Streamlit** and **Plotly** for visualizing and analyzing hospital readmission data.  
-It allows users to explore patient statistics, variable distributions, and factors affecting length of stay using **interactive charts** and metrics.
+This project is an **interactive dashboard** built with **Streamlit** and **Plotly** for visualizing and analyzing hospital readmission data. It allows users to explore patient statistics, variable distributions, and factors affecting length of stay using **interactive charts** and metrics.
 
 ---
 
